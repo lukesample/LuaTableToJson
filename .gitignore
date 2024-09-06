@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# Ignore build and intermediate files
+bin/
+obj/
+
+# Ignore user-specific settings
+*.user
+*.vspscc
+.vscode/
+
+# Ignore other common files
+.DS_Store
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore Visual Studio Folder
+.vs/
